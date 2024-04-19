@@ -5,7 +5,7 @@ Hey there, Thank you for stopping by my profile! . I'm Jalaj, presently in my th
 
 * ✉️  You can contact me at [jalajgupta1507@gmail.com](mailto:jalajgupta1507@gmail.com)
 * 🧠  I'm learning NLP and App Development
-* 🤝  I'm open to collaborating on Interesting Projects
+* 🤝  I'm open to collaborate on Interesting Projects
 
 <a href="https://www.github.com/Jalajgupta15" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jalajgupta15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
