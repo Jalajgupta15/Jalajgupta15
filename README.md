@@ -1,7 +1,7 @@
 Hi 👋 My name is Jalaj Gupta
 ============================
 
-Hey there, Thank you for stopping by my profile! . I'm Jalaj, presently in my third year pursuing a Bachelor's degree in Computer Science Engineering, specializing in Big Data Analytics. My dedication lies in the perpetual quest for knowledge, honing my skills, exploring new horizons through travel, and engaging with individuals who share similar passions. Additionally, I am keen on collaborating on projects to further enhance my expertise and contribute to meaningful endeavors.
+Hey there, Thank you for stopping by my profile! . I'm Jalaj, presently in my final year pursuing a Bachelor's degree in Computer Science Engineering, specializing in Big Data Analytics. My dedication lies in the perpetual quest for knowledge, honing my skills, exploring new horizons through travel, and engaging with individuals who share similar passions. Additionally, I am keen on collaborating on projects to further enhance my expertise and contribute to meaningful endeavors.
 
 * ✉️  You can contact me at [jalajgupta1507@gmail.com](mailto:jalajgupta1507@gmail.com)
 * 🧠  I'm learning NLP and App Development
